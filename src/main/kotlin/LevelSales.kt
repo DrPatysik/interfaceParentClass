@@ -1,4 +1,4 @@
-interface LevelSales {
+interface LevelSales  {
     val name:String
     val _levelSales:Int
 

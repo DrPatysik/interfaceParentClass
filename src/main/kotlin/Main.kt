@@ -24,7 +24,7 @@ fun main(args: Array<String>) {
             employee.printLevelSales()
         }
     }
-    println()
+    println( )
 
     val averageLevelSales = 200
 
